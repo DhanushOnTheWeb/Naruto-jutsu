@@ -45,3 +45,5 @@ This project was created for educational and entertainment purposes. Naruto and 
 # Reference for Report Preparation
 If you are using this for an internship or academic portfolio, here is the suggested bibliography entry:
 MediaPipe Documentation. (2026). Hands: High-fidelity palm detection and hand skeleton tracking. Google Open Source. https://google.github.io/mediapipe/solutions/hands.
+
+# live demo : https://dhanushontheweb.github.io/Naruto-jutsu/
